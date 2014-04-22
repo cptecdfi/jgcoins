@@ -1,7 +1,7 @@
 Wallet Tools
 ---------------------
 
-### [BitRPC](/contrib/bitrpc) ###
+### [JGCRPC](/contrib/bitrpc) ###
 Allows for sending of all standard Jgcoin commands via RPC rather than as command line args.
 
 ### [SpendFrom](/contrib/spendfrom) ###
