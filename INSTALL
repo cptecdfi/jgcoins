@@ -1,0 +1,5 @@
+Building Jgcoin
+
+See doc/build-*.md for instructions on building jgcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Jgcoin.

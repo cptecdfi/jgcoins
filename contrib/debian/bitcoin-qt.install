@@ -1,0 +1,6 @@
+jgcoin-qt usr/bin
+share/pixmaps/jgcoin32.xpm usr/share/pixmaps
+share/pixmaps/jgcoin16.xpm usr/share/pixmaps
+share/pixmaps/jgcoin128.png usr/share/pixmaps
+debian/jgcoin-qt.desktop usr/share/applications
+debian/jgcoin-qt.protocol usr/share/kde4/services/
