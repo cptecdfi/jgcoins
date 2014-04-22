@@ -4,5 +4,5 @@ Allows for sending of all standard Jgcoin commands via RPC rather than as comman
 ### Looking for Wallet Tools?
 JGCRPC.py is able to do the exact same thing as `walletchangepass.py` and `walletunlock.py`. Their respective commands in JGCRPC.py are:
 
-	bitrpc.py walletpassphrasechange
-	bitrpc.py walletpassphrase
+	jgcrpc.py walletpassphrasechange
+	jgcrpc.py walletpassphrase
